@@ -1,8 +1,8 @@
 export enum BodyParts {
-  LeftHand,
-  RightHand,
-  LeftFoot,
-  RightFoot
+  LeftHand = "LeftHand",
+  RightHand = "RightHand",
+  LeftFoot = "LeftFoot",
+  RightFoot = "RightFoot"
 }
 
 // helper class used to access the above enum
